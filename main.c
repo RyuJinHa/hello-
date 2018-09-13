@@ -5,6 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	
-	printf("Hello, Jinha!\n");
+	printf("Hello, Jinha! ggg");
 	return 0;
 }
